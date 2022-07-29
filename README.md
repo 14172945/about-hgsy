@@ -12,6 +12,8 @@ description: 初步了解服务器
 * 为防止BUG出现，目前推荐Java版本在**1.18.2**以上
 * **全区支持基岩/Java跨端进服**
 
+![大厅](.gitbook/assets/2022-07-29\_21.28.34.png)
+
 ![游戏内截图](.gitbook/assets/1.png)
 
 ## 全区注意事项

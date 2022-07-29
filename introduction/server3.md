@@ -26,6 +26,10 @@ description: 版本 -1.18.2
 不建议你将家建在此服
 {% endhint %}
 
+{% hint style="danger" %}
+<mark style="color:red;">此区需要独立进入，不可使用主线路进入！</mark>
+{% endhint %}
+
 ### 部分截图
 
 ![干净的出生点](../.gitbook/assets/2022-07-29\_21.44.41.png)
